@@ -2939,7 +2939,7 @@ class MdiIcons {
   static const IconData humanPregnant = const _MdiIconData(0xf05cf);
   static const IconData humanQueue = const _MdiIconData(0xf1571);
   static const IconData humanScooter = const _MdiIconData(0xf11e9);
-  static const IconData wheelchair_pickup = const _MdiIconData(0xf138d);
+  static const IconData humanWheelchair = const _MdiIconData(0xf138d);
   static const IconData humbleBundle = const _MdiIconData(0xf0744);
   static const IconData hvac = const _MdiIconData(0xf1352);
   static const IconData hvacOff = const _MdiIconData(0xf159e);
